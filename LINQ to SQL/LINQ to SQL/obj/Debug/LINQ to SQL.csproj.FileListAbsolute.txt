@@ -1,0 +1,12 @@
+C:\Users\hasib\source\repos\LINQ to SQL\LINQ to SQL\bin\Debug\Database1.mdf
+C:\Users\hasib\source\repos\LINQ to SQL\LINQ to SQL\bin\Debug\Database1_log.ldf
+C:\Users\hasib\source\repos\LINQ to SQL\LINQ to SQL\bin\Debug\LINQ to SQL.exe.config
+C:\Users\hasib\source\repos\LINQ to SQL\LINQ to SQL\bin\Debug\LINQ to SQL.exe
+C:\Users\hasib\source\repos\LINQ to SQL\LINQ to SQL\bin\Debug\LINQ to SQL.pdb
+C:\Users\hasib\source\repos\LINQ to SQL\LINQ to SQL\obj\Debug\LINQ_to_SQL.Form1.resources
+C:\Users\hasib\source\repos\LINQ to SQL\LINQ to SQL\obj\Debug\LINQ_to_SQL.Properties.Resources.resources
+C:\Users\hasib\source\repos\LINQ to SQL\LINQ to SQL\obj\Debug\LINQ to SQL.csproj.GenerateResource.cache
+C:\Users\hasib\source\repos\LINQ to SQL\LINQ to SQL\obj\Debug\LINQ to SQL.csproj.CoreCompileInputs.cache
+C:\Users\hasib\source\repos\LINQ to SQL\LINQ to SQL\obj\Debug\LINQ to SQL.exe
+C:\Users\hasib\source\repos\LINQ to SQL\LINQ to SQL\obj\Debug\LINQ to SQL.pdb
+C:\Users\hasib\source\repos\LINQ to SQL\LINQ to SQL\obj\Debug\LINQ to SQL.csprojAssemblyReference.cache
